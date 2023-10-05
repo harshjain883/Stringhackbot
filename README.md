@@ -4,7 +4,7 @@
 
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXSIR&repo=stringhackbot&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXSIR&repo=stringhackbot1&theme=flag-india)
 
 
 ### ❤️‍🔥𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒👀❣️
