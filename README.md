@@ -1,4 +1,4 @@
-# stringhackbot
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXSIR&repo=stringhackbot&theme=flag-india)
 
 
 ### ❤️‍🔥𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒👀❣️
@@ -11,12 +11,15 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/DAXXSIR/count.svg" />
 
- 
+ <img                         src="https://te.legra.ph/file/03f6e25095964d9d07e36.jpg">
+</p>
+
+
 
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXSIR/stringhackbot"> <img src="https://github.com/DAXXSIR/DAXXMUSIC/blob/master/AnonX/assets/1693819253886.png" width="620" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXSIR/stringhackbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-dark?style=for-the-badge&logo=heroku" width="620" height="198.45"/></a></p>
 
 
 
@@ -41,3 +44,13 @@
 <a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/daxxsir"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
+
+<p align="center">
+<a href="https://telegram.me/CYBERDAXX"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/CYBERDAXXX"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
