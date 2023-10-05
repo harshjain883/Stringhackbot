@@ -39,8 +39,8 @@ async def Daxxhack():
     header = Table(show_header=True, header_style="bold green")
     header.add_column(LOG_TEXT)
     LOG.print(header)
-    LOG.print(f"[bold cyan]MR DAXX")
-    LOG.print("[bold yellow]sᴛᴀʀᴛɪɴɢ ʏᴏᴜʀ ʙᴏᴛ ɴᴏᴡ.......")
+    LOG.print(f"[bold cyan]𝐌𝐑.𝐃𝐀𝐗𝐗")
+    LOG.print("[bold yellow]𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭.............")
     await app.start()    
     
 
