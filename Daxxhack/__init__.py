@@ -1,26 +1,19 @@
 import os
 import asyncio
 import logging
-from config import Config
+
 from pyrogram import Client
+from pyromod import listen
 from rich.console import Console
 from rich.table import Table
+
+import config
 from Daxxhack.Helpers.data import LOG_TEXT
-from pyromod import listen 
 
-#getting variables
-API_ID = Config.API_ID
-API_HASH = Config.API_HASH
-TOKEN = Config.TOKEN
-START_PIC = Config.START_PIC
-
-
-
-if not START_PIC:
-    START_PIC = "https://telegra.ph/file/73cd2c73ff6d19923774c.jpg"
 
 #rich
 LOG = Console()
+START_PIC = config.START_PIC
 
 #logger
 logging.basicConfig(level=logging.INFO)
@@ -28,9 +21,9 @@ logging.basicConfig(level=logging.INFO)
 #client
 app = Client(
     name="SessionHack",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=TOKEN,
+    api_id=config.API_ID,
+    api_hash=config.API_HASH,
+    bot_token=config.TOKEN,
     in_memory=True,
 )
 
