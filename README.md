@@ -25,7 +25,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXSIR/stringhackbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-dark?style=for-the-badge&logo=heroku" width="620" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/harshjain883/Stringhackbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-dark?style=for-the-badge&logo=heroku" width="620" height="198.45"/></a></p>
 
 
 
