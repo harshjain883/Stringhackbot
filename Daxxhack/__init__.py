@@ -27,12 +27,12 @@ logging.basicConfig(level=logging.INFO)
 
 #client
 app = Client(
-    "SupremeStark",
-    api_id = API_ID,
-    api_hash = API_HASH,
-    bot_token = TOKEN )
-    
-
+    name="SessionHack",
+    api_id=API_ID,
+    api_hash=API_HASH,
+    bot_token=TOKEN,
+    in_memory=True,
+)
 
 async def Daxxhack():
     os.system("clear")
@@ -41,20 +41,8 @@ async def Daxxhack():
     LOG.print(header)
     LOG.print(f"[bold cyan]𝐌𝐑.𝐃𝐀𝐗𝐗")
     LOG.print("[bold yellow]𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭.............")
-    await app.start()    
-    
+    await app.start()
 
 
 loop = asyncio.get_event_loop()
-loop.run_until_complete(Daxxhack())    
-
-
-
-    
-    
-
-    
-    
-
-
-
+loop.run_until_complete(Daxxhack())
